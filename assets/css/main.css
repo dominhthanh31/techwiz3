@@ -1557,6 +1557,7 @@ img{
 .products .product .product-img-info:hover .item-box-hover .box-inner {
     -webkit-transform: translateX(0);
     transform: translateX(0);
+    display: flex;
 }
 
 .products .product .product__name {
@@ -3091,6 +3092,7 @@ img{
     }
     .product-content {
         padding-top: 0;
+        text-align: center;
     }
 }
 

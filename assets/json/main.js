@@ -6,7 +6,7 @@ const app = {
     {
       id: 1,
       images: "assets/img/SavedPictures/SavedPictures/anh001.jpg",
-      title: "Quần short nam",
+      title: "Men's short",
       description: "aaaa",
       price: "$7",
       product_code: "AB001",
@@ -15,7 +15,7 @@ const app = {
     {
       id: 2,
       images: "assets/img/SavedPictures/SavedPictures/anh002.jpg",
-      title: "Sơ mi kẻ sọc nam",
+      title: "A men's plaid shirt",
       description: "cccc",
       price: "$20",
       product_code: "AB002",
@@ -24,7 +24,7 @@ const app = {
     {
       id: 3,
       images: "assets/img/SavedPictures/SavedPictures/anh003.jpg",
-      title: "chân váy nữ",
+      title: "Women's skirts",
       description: "cccc",
       price: "$49",
       product_code: "AB003",
@@ -33,7 +33,7 @@ const app = {
     {
       id: 4,
       images: "assets/img/SavedPictures/SavedPictures/anh004.jpg",
-      title: "áo mua đông (nam/nữ)",
+      title: "Men's and women's winter shirts",
       description: "cccc",
       price: "$60",
       product_code: "AB004",
@@ -42,7 +42,7 @@ const app = {
     {
       id: 5,
       images: "assets/img/SavedPictures/SavedPictures/anh005.jpg",
-      title: "áo sơ mi cộc tay nữ",
+      title: "A women's short-sleeved shirt",
       description: "cccc",
       price: "$21",
       product_code: "AB005",
@@ -51,7 +51,7 @@ const app = {
     {
       id: 6,
       images: "assets/img/SavedPictures/SavedPictures/anh006.jpg",
-      title: "ÁO HAI DAY NỮ",
+      title: "Women's two-day t-shirt",
       description: "cccc",
       price: "$28",
       product_code: "AB006",
@@ -60,7 +60,7 @@ const app = {
     {
       id: 7,
       images: "assets/img/SavedPictures/SavedPictures/anh007.jpg",
-      title: "Quần bò nam",
+      title: "Man's jeans",
       description: "cccc",
       price: "$98",
       product_code: "AB007",
@@ -69,7 +69,7 @@ const app = {
     {
       id: 8,
       images: "assets/img/SavedPictures/SavedPictures/anh008.jpg",
-      title: "áo sơ mi kẻ trắng nam",
+      title: "A men's white plaid shirt",
       description: "cccc",
       price: "$48",
       product_code: "AB008",
@@ -78,7 +78,7 @@ const app = {
     {
       id: 9,
       images: "assets/img/SavedPictures/SavedPictures/anh009.jpg",
-      title: "quần bò đùi nam",
+      title: "Men's jeans",
       description: "cccc",
       price: "$59",
       product_code: "AB009",
@@ -87,7 +87,7 @@ const app = {
     {
       id: 10,
       images: "assets/img/SavedPictures/SavedPictures/anh010.jpg",
-      title: "áo hodde đỏ (nam/nữ)",
+      title: "Men's and women's red hoodies",
       description: "cccc",
       price: "$80",
       product_code: "AB010",
@@ -96,7 +96,7 @@ const app = {
     {
       id: 11,
       images: "assets/img/SavedPictures/SavedPictures/anh011.jpg",
-      title: "áo sơ mi cổ tay xọc đen nam",
+      title: "Men's black striped long sleeve shirt",
       description: "cccc",
       price: "$96",
       product_code: "AB011",
@@ -105,7 +105,7 @@ const app = {
     {
       id: 12,
       images: "assets/img/SavedPictures/SavedPictures/anh012.jpg",
-      title: "áo ngắn nữ",
+      title: "Women's short shirt",
       description: "cccc",
       price: "$34",
       product_code: "AB012",
@@ -114,7 +114,7 @@ const app = {
     {
       id: 13,
       images: "assets/img/SavedPictures/SavedPictures/anh013.jpg",
-      title: "áo cộc 3 khuy nữ",
+      title: "Women's 3-button blazer",
       description: "cccc",
       price: "$90",
       product_code: "AB013",
@@ -123,7 +123,7 @@ const app = {
     {
       id: 14,
       images: "assets/img/SavedPictures/SavedPictures/anh014.jpg",
-      title: "Quần bò nữ",
+      title: "Jeans for women",
       description: "cccc",
       price: "$20",
       product_code: "AB014",
@@ -132,7 +132,7 @@ const app = {
     {
       id: 15,
       images: "assets/img/SavedPictures/SavedPictures/anh015.jpg",
-      title: "áo hồng kẻ nam",
+      title: "Men's pink plaid shirt",
       description: "cccc",
       price: "$65",
       product_code: "AB015",
@@ -141,7 +141,7 @@ const app = {
     {
       id: 16,
       images: "assets/img/SavedPictures/SavedPictures/anh016.jpg",
-      title: "quàn bò bó gối nam",
+      title: "Men's pink plaid shirt",
       description: "cccc",
       price: "$20",
       product_code: "AB016",
@@ -150,7 +150,7 @@ const app = {
     {
       id: 17,
       images: "assets/img/SavedPictures/SavedPictures/anh017.jpg",
-      title: "ao khoac dày nam",
+      title: "Men's thick coat",
       description: "cccc",
       price: "$98",
       product_code: "AB017",
@@ -159,7 +159,7 @@ const app = {
     {
       id: 18,
       images: "assets/img/SavedPictures/SavedPictures/anh018.jpg",
-      title: "áo guuci nam",
+      title: "Men's Gucci shirt",
       description: "cccc",
       price: "$54",
       product_code: "AB018",
@@ -168,7 +168,7 @@ const app = {
     {
       id: 19,
       images: "assets/img/SavedPictures/SavedPictures/anh019.png",
-      title: "bộ thể thao nam",
+      title: "Men's sports set",
       description: "cccc",
       price: "$12",
       product_code: "AB019",
@@ -177,7 +177,7 @@ const app = {
     {
       id: 20,
       images: "assets/img/SavedPictures/SavedPictures/anh020.jpg",
-      title: "áo ba lỗ adiads nam",
+      title: "Adidas men's tank top",
       description: "cccc",
       price: "$14",
       product_code: "AB020",
@@ -186,7 +186,7 @@ const app = {
     {
       id: 21,
       images: "assets/img/SavedPictures/SavedPictures/anh021.jpg",
-      title: "áo tua trăng nữ",
+      title: "Women's tassel tops",
       description: "cccc",
       price: "$67",
       product_code: "AB021",
@@ -195,7 +195,7 @@ const app = {
     {
       id: 22,
       images: "assets/img/SavedPictures/SavedPictures/anh022.jpg",
-      title: "áo croptop nữ",
+      title: "Women's crop top",
       description: "cccc",
       price: "$33",
       product_code: "AB022",
@@ -204,7 +204,7 @@ const app = {
     {
       id: 23,
       images: "assets/img/SavedPictures/SavedPictures/anh023.jpg",
-      title: "chân váy hoa nữ",
+      title: "Women's floral skirt",
       description: "cccc",
       price: "$20",
       product_code: "AB023",
@@ -213,7 +213,7 @@ const app = {
     {
       id: 24,
       images: "assets/img/SavedPictures/SavedPictures/anh024.jpg",
-      title: "áo nen logan (nam/nữ)",
+      title: "Sweater (men/women)",
       description: "cccc",
       price: "$68",
       product_code: "AB024",
@@ -222,7 +222,7 @@ const app = {
     {
       id: 25,
       images: "assets/img/SavedPictures/SavedPictures/anh025.jpg",
-      title: "Sơ mi kẻ sọc nam",
+      title: "Men's plaid shirt",
       description: "cccc",
       price: "$20",
       product_code: "AB025",
@@ -231,7 +231,7 @@ const app = {
     {
       id: 26,
       images: "assets/img/SavedPictures/SavedPictures/anh026.jpg",
-      title: "Sơ mi kẻ sọc nam",
+      title: "Men's plaid shirt",
       description: "cccc",
       price: "$20",
       product_code: "AB026",
@@ -240,7 +240,7 @@ const app = {
     {
       id: 27,
       images: "assets/img/SavedPictures/SavedPictures/anh027.jpg",
-      title: "Sơ mi kẻ sọc nam",
+      title: "Men's plaid shirt",
       description: "cccc",
       price: "$20",
       product_code: "AB027",
@@ -249,7 +249,7 @@ const app = {
     {
       id: 28,
       images: "assets/img/SavedPictures/SavedPictures/anh026.jpg",
-      title: "Sơ mi kẻ sọc nam",
+      title: "Men's plaid shirt",
       description: "cccc",
       price: "$20",
       product_code: "AB02",
@@ -258,7 +258,7 @@ const app = {
     {
       id: 29,
       images: "assets/img/SavedPictures/SavedPictures/anh026.jpg",
-      title: "Sơ mi kẻ sọc nam",
+      title: "Men's plaid shirt",
       description: "cccc",
       price: "$20",
       product_code: "AB02",
@@ -267,7 +267,7 @@ const app = {
     {
       id: 30,
       images: "assets/img/SavedPictures/SavedPictures/anh026.jpg",
-      title: "Sơ mi kẻ sọc nam",
+      title: "Men's plaid shirt",
       description: "cccc",
       price: "$20",
       product_code: "AB02",
@@ -276,7 +276,7 @@ const app = {
     {
       id: 31,
       images: "assets/img/SavedPictures/SavedPictures/anh026.jpg",
-      title: "Sơ mi kẻ sọc nam",
+      title: "Men's plaid shirt",
       description: "cccc",
       price: "$20",
       product_code: "AB02",
